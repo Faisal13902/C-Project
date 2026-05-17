@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\All\\C#\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|c:\\all\\c#\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\MainForm.cs",
+              "RelativeDocumentMoniker": "Project\\MainForm.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\MainForm.cs",
+              "RelativeToolTip": "Project\\MainForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T19:15:44.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\MainForm.cs",
+              "RelativeDocumentMoniker": "Project\\MainForm.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\MainForm.cs [Design]",
+              "RelativeToolTip": "Project\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T19:10:58.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.cs [Design]",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\LogIn.cs",
+              "RelativeDocumentMoniker": "Project\\LogIn.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\LogIn.cs [Design]",
+              "RelativeToolTip": "Project\\LogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:05:55.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "splash.cs [Design]",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\splash.cs",
+              "RelativeDocumentMoniker": "Project\\splash.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\splash.cs [Design]",
+              "RelativeToolTip": "Project\\splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T18:05:49.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
