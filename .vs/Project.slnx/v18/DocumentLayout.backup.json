@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\All\\C#\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|c:\\all\\c#\\project\\project\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|c:\\all\\c#\\project\\project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\users.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6130A067-53A6-451C-86EE-0C81FB0C924D}|Project\\Project.csproj|C:\\All\\C#\\Project\\project\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,24 +42,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\Users.cs",
+              "RelativeDocumentMoniker": "Project\\Users.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\Users.cs*",
+              "RelativeToolTip": "Project\\Users.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:11:38.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:25:14.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\Users.cs",
+              "RelativeDocumentMoniker": "Project\\Users.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\Users.cs [Design]",
+              "RelativeToolTip": "Project\\Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:51:47.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.Designer.cs",
+              "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\Users.Designer.cs",
+              "RelativeDocumentMoniker": "Project\\Users.Designer.cs",
+              "ToolTip": "C:\\All\\C#\\Project\\Project\\Users.Designer.cs",
+              "RelativeToolTip": "Project\\Users.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwF8BAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T15:44:59.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\MainForm.cs",
               "RelativeDocumentMoniker": "Project\\MainForm.cs",
               "ToolTip": "C:\\All\\C#\\Project\\Project\\MainForm.cs",
               "RelativeToolTip": "Project\\MainForm.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T19:15:44.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\MainForm.cs",
               "RelativeDocumentMoniker": "Project\\MainForm.cs",
@@ -55,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "LogIn.cs [Design]",
               "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\LogIn.cs",
               "RelativeDocumentMoniker": "Project\\LogIn.cs",
@@ -67,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "splash.cs [Design]",
               "DocumentMoniker": "C:\\All\\C#\\Project\\Project\\splash.cs",
               "RelativeDocumentMoniker": "Project\\splash.cs",
