@@ -43,3 +43,4 @@ D:\C# Project\C-Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
 D:\C# Project\C-Project\Project\obj\Debug\Project.csproj.Up2Date
 D:\C# Project\C-Project\Project\obj\Debug\Project.exe
 D:\C# Project\C-Project\Project\obj\Debug\Project.pdb
+D:\C# Project\C-Project\Project\obj\Debug\Project.Customer.resources
