@@ -23,7 +23,7 @@ namespace Project
 
         private void Users_Load(object sender, EventArgs e)
         {
-            
+            populate();
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -40,7 +40,17 @@ namespace Project
         {
             Application.Exit();
         }
-
+        private void populate()
+        {
+            Con.Open();
+            string query = "select * from UserTb1";
+            SqlDataAdapter da = new SqlDataAdapter(query, Con);
+            SqlCommandBuilder builder = new SqlCommandBuilder(da);
+            var ds = new DataSet();
+            da.Fill(ds);
+            UserDGV.DataSource = ds.Tables[0];
+            Con.Close();
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             if (Uid.Text == "" || Uname.Text == "" || Upass.Text == "")
@@ -55,22 +65,86 @@ namespace Project
                     SqlCommand cmd = new SqlCommand(query,Con);
                     cmd.ExecuteNonQuery();
                     MessageBox.Show("Useer Successfully Added");
-                    Con.Close();
-                }catch(Exception Myex)
+                   Con.Close();
+                    populate();
+                }
+                catch(Exception Myex)
                 {
                     MessageBox.Show(Myex.Message);
                 }
             }
         }
 
+<<<<<<< HEAD
         private void guna2DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+=======
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (Uid.Text == "")
+            {
+                MessageBox.Show("Missing Information");
+            }
+            else
+            {
+                try {
+                    Con.Open();
+                    string query = "delete from UserTbl where Id=" +Uid.Text+";";
+                    SqlCommand cmd =new SqlCommand(query,Con);
+                    cmd.ExecuteNonQuery();
+                    MessageBox.Show("User Deleted Successfully!");
+                    Con.Close() ;
+                    populate();
+                }catch (Exception Myex)
+                {
+                    MessageBox.Show(Myex.Message);
+                }
+            }
+        }
+
+        private void UserDGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            Uid.Text = UserDGV.SelectedRows[0].Cells[0].Value.ToString();
+            Uname.Text = UserDGV.SelectedRows[0].Cells[1].Value.ToString();
+            Upass.Text = UserDGV.SelectedRows[0].Cells[2].Value.ToString();
+>>>>>>> b4f349dd9168314f45ed9b4a080c0f6eadbc26cf
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
+=======
+            if (Uid.Text == "" || Uname.Text == "" || Upass.Text == "")
+            {
+                MessageBox.Show("Missing Information");
+            }
+            else
+            {
+                try
+                {
+                    Con.Open();
+                    string query = "update UserTb1 set Uname'" + Uname.Text + "',Upass='" + Upass.Text + "'where Id"+Uid.Text+";";
+                    SqlCommand cmd = new SqlCommand(query, Con);
+                    cmd.ExecuteNonQuery();
+                    MessageBox.Show("Useer Successfully Updated");
+                    Con.Close();
+                    populate();
+                }
+                catch (Exception Myex)
+                {
+                    MessageBox.Show(Myex.Message);
+                }
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            MainForm main = new MainForm();
+            main.Show();
+>>>>>>> b4f349dd9168314f45ed9b4a080c0f6eadbc26cf
         }
     }
 }
